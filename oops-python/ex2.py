@@ -14,3 +14,13 @@ class MATH_FUN():
     
     def SUB(self):
         return(self.a-self.b)
+
+obj = MATH_FUN(100,10)
+add = obj.ADD()
+mul = obj.MUL()
+sub = obj.SUB()
+div = obj.DIV()
+print(f'add:{add}')
+print(f'mul:{mul}')
+print(f'sub:{sub}')
+print(f'div:{div}')
