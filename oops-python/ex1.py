@@ -15,7 +15,7 @@ class MATH_FUN():
 # print(f'add:{add}')
 # print(f'mul:{mul}')
 
-add = MATH_FUN().ADD(10,20)
-mul = MATH_FUN().MUL(10,20)
-print(f'add:{add}')
-print(f'mul:{mul}')
+# add = MATH_FUN().ADD(10,20)
+# mul = MATH_FUN().MUL(10,20)
+# print(f'add:{add}')
+# print(f'mul:{mul}')
